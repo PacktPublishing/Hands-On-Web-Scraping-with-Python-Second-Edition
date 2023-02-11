@@ -1,0 +1,74 @@
+{
+    "Albert_Einstein": {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/author/Albert-Einstein",
+        "date": "March 14, 1879",
+        "location": "Ulm, Germany"
+    },
+    "Marilyn_Monroe": {
+        "name": "Marilyn Monroe",
+        "url": "http://quotes.toscrape.com/author/Marilyn-Monroe",
+        "date": "June 01, 1926",
+        "location": "The United States"
+    },
+    "Thomas_A__Edison": {
+        "name": "Thomas A. Edison",
+        "url": "http://quotes.toscrape.com/author/Thomas-A-Edison",
+        "date": "February 11, 1847",
+        "location": "Milan, Ohio, The United States"
+    },
+    "Elie_Wiesel": {
+        "name": "Elie Wiesel",
+        "url": "http://quotes.toscrape.com/author/Elie-Wiesel",
+        "date": "September 30, 1928",
+        "location": "Sighet, Romania"
+    },
+    "J_K__Rowling": {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/author/J-K-Rowling",
+        "date": "July 31, 1965",
+        "location": "Yate, South Gloucestershire, England, The United Kgdom"
+    },
+    "George_Eliot": {
+        "name": "George Eliot",
+        "url": "http://quotes.toscrape.com/author/George-Eliot",
+        "date": "November 22, 1819",
+        "location": "South Farm, Arbury Hall, Nuneaton, Warwickshire, The United Kgdom"
+    },
+    "C_S__Lewis": {
+        "name": "C.S. Lewis",
+        "url": "http://quotes.toscrape.com/author/C-S-Lewis",
+        "date": "November 29, 1898",
+        "location": "Belfast, Ireland"
+    },
+    "Martin_Luther_King_Jr_": {
+        "name": "Martin Luther King Jr.",
+        "url": "http://quotes.toscrape.com/author/Martin-Luther-King-Jr",
+        "date": "January 15, 1929",
+        "location": "Atlanta, Georgia, The United States"
+    },
+    "Helen_Keller": {
+        "name": "Helen Keller",
+        "url": "http://quotes.toscrape.com/author/Helen-Keller",
+        "date": "June 27, 1880",
+        "location": "Tuscumbia, Alabama, The United States"
+    },
+    "George_Bernard_Shaw": {
+        "name": "George Bernard Shaw",
+        "url": "http://quotes.toscrape.com/author/George-Bernard-Shaw",
+        "date": "July 26, 1856",
+        "location": "Dubl, Ireland"
+    },
+    "John_Lennon": {
+        "name": "John Lennon",
+        "url": "http://quotes.toscrape.com/author/John-Lennon",
+        "date": "October 09, 1940",
+        "location": "Liverpool, England, The United Kgdom"
+    },
+    "Dr__Seuss": {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/author/Dr-Seuss",
+        "date": "March 02, 1904",
+        "location": "Sprgfield, MA, The United States"
+    }
+}

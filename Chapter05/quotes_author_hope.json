@@ -1,0 +1,14 @@
+{
+    "Martin_Luther_King_Jr_": {
+        "name": "Martin Luther King Jr.",
+        "url": "http://quotes.toscrape.com/author/Martin-Luther-King-Jr",
+        "date": "January 15, 1929",
+        "location": "Atlanta, Georgia, The United States"
+    },
+    "John_Lennon": {
+        "name": "John Lennon",
+        "url": "http://quotes.toscrape.com/author/John-Lennon",
+        "date": "October 09, 1940",
+        "location": "Liverpool, England, The United Kgdom"
+    }
+}

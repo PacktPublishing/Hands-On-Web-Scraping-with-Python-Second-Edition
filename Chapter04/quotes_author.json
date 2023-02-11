@@ -1,0 +1,56 @@
+{
+    "Jane_Austen": {
+        "name": "Jane Austen",
+        "url": "http://quotes.toscrape.com/author/Jane-Austen",
+        "date": "December 16, 1775",
+        "location": "Steventon Rectory, Hampshire, The United Kgdom"
+    },
+    "Mark_Twain": {
+        "name": "Mark Twain",
+        "url": "http://quotes.toscrape.com/author/Mark-Twain",
+        "date": "November 30, 1835",
+        "location": "Florida, Missouri, The United States"
+    },
+    "Jorge_Luis_Borges": {
+        "name": "Jorge Luis Borges",
+        "url": "http://quotes.toscrape.com/author/Jorge-Luis-Borges",
+        "date": "August 24, 1899",
+        "location": "Buenos Aires, Argenta"
+    },
+    "C_S__Lewis": {
+        "name": "C.S. Lewis",
+        "url": "http://quotes.toscrape.com/author/C-S-Lewis",
+        "date": "November 29, 1898",
+        "location": "Belfast, Ireland"
+    },
+    "Haruki_Murakami": {
+        "name": "Haruki Murakami",
+        "url": "http://quotes.toscrape.com/author/Haruki-Murakami",
+        "date": "January 12, 1949",
+        "location": "Kyoto, Japan"
+    },
+    "Ernest_Hemingway": {
+        "name": "Ernest Hemingway",
+        "url": "http://quotes.toscrape.com/author/Ernest-Hemingway",
+        "date": "July 21, 1899",
+        "location": "Oak Park, Illois, The United States"
+    },
+    "J_D__Salinger": {
+        "name": "J.D. Salinger",
+        "url": "http://quotes.toscrape.com/author/J-D-Salinger",
+        "date": "January 01, 1919",
+        "location": "Manhattan, New York, The United States"
+    },
+    "Madeleine_L'Engle": {
+        "name": "Madeleine L'Engle",
+        "url": "http://quotes.toscrape.com/author/Madeleine-LEngle",
+        "date": "November 29, 1918",
+        "location": "New York City, New York, The United States"
+    },
+    "George_R_R__Martin": {
+        "name": "George R.R. Martin",
+        "url": "http://quotes.toscrape.com/author/George-R-R-Martin",
+        "date": "September 20, 1948",
+        "location": "Bayonne, New Jersey, The United States"
+    }
+}
