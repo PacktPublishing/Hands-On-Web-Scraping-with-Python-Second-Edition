@@ -1,0 +1,9 @@
+Date,Version,Description
+September 2002,Draft 01,First draft for discussion with Nova Scotia
+January 2003,Draft,Second draft after discussion with Nova Scotia and major review of the hydro network model through:   Proposal of options
+March 2003,Alpha,Draft version after discussion and decisions made concerning NHNC1 scope and content with Nova Scotia and British Columbia
+July 2003,Draft 02,"Draft version after discussion and decisions made concerning the detailed NHNC1 model and content with Nova Scotia, British Columbia, and the Yukon. Meeting in Victoria, May 2003."
+December 2003,Draft,Integration of UML model for both LRS and Segmented views of the NHNC1.
+February 2004,Draft,English review;  Remove the UML model for the Segmented view.
+May 2004,Draft,Update from the March Workshop comments.
+August 2004,2004.1,The object metadata a ttribute «  date » is renamed «  validity_date  » in section 3.1.6.2 and at all other parts referring to object metadata.  A new Feature type value is added for inland water (see section 3.1.5)

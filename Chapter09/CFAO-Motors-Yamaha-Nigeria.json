@@ -1,0 +1,30 @@
+[
+    {
+        "id": "261",
+        "name": "AUSTINE BEST VENTURES LTD",
+        "city": "Igbo-Ora",
+        "lat": "7.435186",
+        "lng": "3.2874431"
+    },
+    {
+        "id": "257",
+        "name": "BLESSED DEN-RACH DYNAMIC VENTURES LTD",
+        "city": "Enugu",
+        "lat": "6.9162632",
+        "lng": "7.5184719"
+    },
+    {
+        "id": "260",
+        "name": "OLUSOLA COMMERCIAL ENTERPRISES",
+        "city": "Ibadan",
+        "lat": "7.478631",
+        "lng": "3.9137284999999"
+    },
+    {
+        "id": "259",
+        "name": "S. AKINMADE NIGERIA LTD",
+        "city": "Akure",
+        "lat": "7.2455287",
+        "lng": "5.1887157"
+    }
+]

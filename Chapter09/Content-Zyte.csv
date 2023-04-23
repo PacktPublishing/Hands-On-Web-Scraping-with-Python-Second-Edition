@@ -1,0 +1,353 @@
+Site,Type,Topic,Date,Time
+Zyte,blog,json parsing with python,2023-04-06,14:42:05
+Zyte,blog,scraping e commerce websites product data at scale,2023-04-06,14:39:47
+Zyte,blog,how to safely extract data from social media platforms and news sites,2023-03-31,05:28:01
+Zyte,uncategorized,do you have the right data fields for your e commerce data project,2023-03-30,06:34:37
+Zyte,webinars,how to launch a large scale web data extraction project,2023-03-30,05:55:38
+Zyte,blog,importance web scraping data journalism,2023-03-29,17:59:08
+Zyte,blog,challenges enterprise ecommerce web scraping proxies,2023-03-21,07:27:56
+Zyte,blog,how web data can fuel your dynamic pricing strategy,2023-03-21,06:53:53
+Zyte,blog,scraping customer reviews,2023-03-21,06:29:51
+Zyte,webinars,the right data fields for e commerce data project,2023-03-21,06:17:35
+Zyte,webinars,comprehensive overview of web data quality assurance,2023-03-20,10:04:38
+Zyte,webinars,web data 101 planning for success with web data,2023-03-13,06:10:06
+Zyte,webinars,discovering the best way to access web data,2023-03-13,06:09:02
+Zyte,webinars,conducting a web scraping legal compliance review,2023-03-13,06:05:52
+Zyte,uncategorized,a deep dive into news sentiment by scraping 10000 economic and business articles,2023-03-02,11:25:29
+Zyte,blog,how to extract data from a website,2023-02-24,16:07:37
+Zyte,blog,summit 2022 takeways,2023-02-24,15:54:57
+Zyte,learn,difference between web scraping and web crawling,2023-02-24,15:50:23
+Zyte,learn,what is web scraping,2023-02-24,15:23:49
+Zyte,uncategorized,enterprise web scraping more data more reliably 2,2023-02-24,04:36:12
+Zyte,webinars,enterprise web scraping more data more reliably,2023-02-24,04:25:05
+Zyte,uncategorized,a new way to scrape data with zyte api,2023-02-24,04:23:19
+Zyte,webinars,scrape with zyte api,2023-02-09,12:33:43
+Zyte,uncategorized,web data 101 planning for success,2023-02-01,07:05:13
+Zyte,webinars,social media news data extraction webinar,2023-01-17,05:28:38
+Zyte,blog,introducing zyte api,2022-12-22,21:03:27
+Zyte,blog,blackfriday web data extraction,2022-12-16,19:00:16
+Zyte,blog,python requests proxy,2022-12-15,21:22:58
+Zyte,uncategorized,social media and news data extraction heres how to do it right,2022-12-15,14:07:17
+Zyte,blog,web scraping digital transformation,2022-11-30,20:58:49
+Zyte,blog,importio alternative,2022-11-28,14:50:47
+Zyte,terms-policies,dpa,2022-11-25,09:26:12
+Zyte,blog,web scraping e commerce,2022-11-25,02:18:34
+Zyte,terms-policies,cookie policy,2022-11-24,10:52:00
+Zyte,terms-policies,privacy policy,2022-11-24,10:51:20
+Zyte,terms-policies,terms of service,2022-11-24,10:50:57
+Zyte,blog,scrapers system compass,2022-11-21,20:32:04
+Zyte,blog,a practical guide to web data qa part iv complementing semi automated techniques,2022-11-18,00:03:26
+Zyte,blog,data center proxies vs residential proxies,2022-11-18,00:02:20
+Zyte,blog,data extraction with scrapy and python,2022-11-18,00:00:41
+Zyte,blog,web data qa common validation pitfalls,2022-11-17,23:59:12
+Zyte,blog,spidermon the secret sauce to our data quality guarantee,2022-11-17,23:58:16
+Zyte,blog,web scraping real estate data use cases,2022-11-17,23:57:06
+Zyte,blog,how to use a proxy in puppeteer,2022-11-17,22:59:50
+Zyte,blog,backconnect proxy,2022-11-17,22:57:47
+Zyte,blog,how to get high success rates with proxies 3 steps to scale up,2022-11-17,22:55:58
+Zyte,learn,in house vs off the shelf proxy management,2022-11-17,22:53:35
+Zyte,blog,scrapy matplotlib and mysql real estate data analysis,2022-11-15,19:55:06
+Zyte,blog,building spiders made easy gui for your scrapy shell,2022-11-15,19:53:56
+Zyte,blog,extracting clean article html with autoextract,2022-11-15,19:52:25
+Zyte,blog,web data qa part iii combining manual and automated techniques for holistic data validation,2022-11-15,19:47:23
+Zyte,blog,an introduction to xpath with examples,2022-11-15,19:45:29
+Zyte,blog,web scraping basics tools,2022-11-15,19:44:27
+Zyte,blog,extracting schema org microdata using scrapy selectors and xpath,2022-11-15,19:41:46
+Zyte,blog,xpath tips from the web scraping trenches,2022-11-15,19:37:30
+Zyte,blog,scrapy autoextract api integration,2022-11-10,12:05:23
+Zyte,blog,automatic extraction data extractor review,2022-11-10,11:56:07
+Zyte,blog,developer data extraction api for product article extraction,2022-11-10,11:43:17
+Zyte,blog,introducing scrapy cloud with python 3 support,2022-11-09,21:18:59
+Zyte,blog,introducing scrapy cloud 2 0,2022-11-09,21:17:27
+Zyte,blog,deploy your scrapy spiders from github,2022-11-09,21:15:44
+Zyte,blog,scrapy tips from the pros may 2016 edition,2022-11-09,21:15:41
+Zyte,blog,how scrapy makes web crawling easy,2022-11-09,21:15:34
+Zyte,blog,extract json using chompjs and jmespath,2022-11-09,21:06:04
+Zyte,blog,article data extraction,2022-11-04,23:20:18
+Zyte,blog,the zyte smart proxy manager crawlera story,2022-11-04,19:02:15
+Zyte,blog,introducing zyte smart proxy manager crawlera free trials new plans,2022-11-04,18:59:56
+Zyte,webinars,zyte smart proxy manager crawlera tactics demystified,2022-11-04,18:57:36
+Zyte,webinars,zyte smart proxy manager formerly crawlera and headless browsers,2022-11-04,18:57:09
+Zyte,webinars,zyte smart proxy manager formerly crawlera and scrapy tips,2022-11-04,18:56:37
+Zyte,webinars,zyte smart proxy manager with headless browsers,2022-11-04,18:56:16
+Zyte,blog,residential proxies how are they different to data center proxies how to manage them,2022-11-04,18:54:36
+Zyte,blog,proxies versus vpns whats the difference and which one is right for my use case,2022-11-04,18:52:56
+Zyte,blog,scalable scraping secrets,2022-11-04,17:58:56
+Zyte,blog,optimize data strategy,2022-11-04,17:21:51
+Zyte,blog,automated data qa,2022-11-01,19:31:21
+Zyte,blog,reflecting on the 2022 web data extraction summit zyte,2022-10-25,14:37:38
+Zyte,blog,web data extraction summit 2022,2022-10-24,12:10:09
+Zyte,blog,data quality assurance for enterprise web scraping,2022-10-21,22:33:48
+Zyte,blog,enterprise data extraction,2022-10-21,22:31:25
+Zyte,blog,how to use zyte smart proxy manager with scrapy,2022-10-21,22:21:26
+Zyte,blog,sneak peek inside zyte smart proxy manager crawlera,2022-10-21,22:18:47
+Zyte,blog,how to use selenium with zyte smart proxy manager,2022-10-21,22:12:41
+Zyte,blog,how to use playwright with zyte smart proxy manager,2022-10-21,22:10:50
+Zyte,blog,how to use puppeteer with zyte smart proxy manager,2022-10-21,22:07:50
+Zyte,blog,scale up your scrapy projects with zyte smart proxy manager formerly crawlera,2022-10-21,22:05:11
+Zyte,uncategorized,zyte smart proxy manager with headless browser libraries,2022-10-21,22:01:20
+Zyte,whitepaper-ebook,web scraping become too hard to handle,2022-10-20,23:45:18
+Zyte,whitepaper-ebook,web scraping best practices 2,2022-10-20,23:43:31
+Zyte,blog,press release scrapinghub is now zyte,2022-10-20,23:41:30
+Zyte,whitepaper-ebook,using web data to generate alpha,2022-10-20,20:35:10
+Zyte,whitepaper-ebook,data use cases fueling business intelligence with web scraped news data,2022-10-20,20:34:23
+Zyte,case-study,ranktank crawling serp real time with great success rate,2022-10-20,20:33:18
+Zyte,whitepaper-ebook,empowering analysis with online public sentiment data,2022-10-20,20:31:07
+Zyte,case-study,bridge below providing a smart proxy solution to extract automotive web data,2022-10-20,20:29:05
+Zyte,whitepaper-ebook,inflation monitoring through web scraping,2022-10-20,20:28:07
+Zyte,whitepaper-ebook,web scraped alternative data for finance,2022-10-20,20:25:47
+Zyte,whitepaper-ebook,leveling up market research with web scraping,2022-10-20,20:24:42
+Zyte,whitepaper-ebook,quality assurance the secret to a successful web scraping project,2022-10-20,20:22:24
+Zyte,whitepaper-ebook,mining web data to uncover job listings wage trends,2022-10-20,20:19:31
+Zyte,whitepaper-ebook,fueling real estates big data revolution with web scraping,2022-10-20,20:18:19
+Zyte,whitepaper-ebook,in depth analysis and evaluation on the quality of article body extraction,2022-10-20,20:15:20
+Zyte,whitepaper-ebook,product price promotion and positioning monitoring at scale an ecommerce case study,2022-10-20,20:13:43
+Zyte,blog,scrapy update better broad crawl performance,2022-10-20,20:12:24
+Zyte,blog,launching the zyte developers community,2022-10-20,20:10:45
+Zyte,blog,van buren a victory for web scrapers,2022-10-20,20:09:07
+Zyte,blog,data mining ai,2022-10-20,00:54:43
+Zyte,learn,what python web scraping tools are available,2022-10-17,05:47:45
+Zyte,blog,hacktoberfest 2022,2022-10-06,14:55:16
+Zyte,learn,use proxies for web scraping,2022-09-29,22:38:06
+Zyte,learn,how to scale up web scraping,2022-09-29,22:33:15
+Zyte,blog,proxies for web scraping,2022-09-29,22:27:53
+Zyte,blog,best web scraping proxy management solution,2022-09-29,22:16:03
+Zyte,blog,manage bans and get your data zyte data api,2022-09-28,23:08:59
+Zyte,blog,frontera the brain behind the crawls,2022-09-27,20:35:03
+Zyte,blog,git for managing vacations,2022-09-27,20:31:04
+Zyte,blog,europython here we go,2022-09-27,20:26:09
+Zyte,blog,scrapy tsocks,2022-09-27,20:24:18
+Zyte,blog,dirbot a new example scrapy project,2022-09-27,20:21:24
+Zyte,blog,autoscraping casts a wider net,2022-09-27,20:20:12
+Zyte,blog,finding similar items,2022-09-27,20:19:08
+Zyte,blog,spiders activity graphs,2022-09-27,20:18:02
+Zyte,blog,git workflow scrapy projects,2022-09-27,20:14:03
+Zyte,blog,introducing crawlera now zyte smart proxy manager,2022-09-27,20:12:49
+Zyte,blog,mongo bad for scraped data,2022-09-27,20:12:00
+Zyte,blog,marcos campal is a scrapinghubber,2022-09-27,20:09:58
+Zyte,blog,looking back at 2013,2022-09-27,20:08:59
+Zyte,blog,open source at scrapinghub now zyte,2022-09-27,20:07:34
+Zyte,blog,optimizing memory usage of scikit learn models using succinct tries,2022-09-27,20:06:37
+Zyte,blog,announcing portia,2022-09-27,20:04:34
+Zyte,blog,news api blog importance of article quality,2022-09-14,14:34:51
+Zyte,whitepaper-ebook,product data extraction quality evaluation,2022-09-14,14:00:54
+Zyte,case-study,intelligo,2022-09-14,13:59:24
+Zyte,uncategorized,e commerce resources gate,2022-09-14,13:58:21
+Zyte,case-study,debunk eu scrapes millions of news articles with zyte,2022-09-14,13:51:21
+Zyte,webinars,everything you wanted to know about extracting e commerce web data,2022-09-14,13:31:12
+Zyte,webinars,web data extraction fuels price competitive intelligence,2022-09-14,13:27:18
+Zyte,webinars,measuring product data extraction quality against the competition,2022-09-14,13:14:18
+Zyte,webinars,web scraping revolution no more spiders,2022-09-14,13:10:32
+Zyte,blog,the importance of web data and how to easily access it,2022-09-13,23:24:08
+Zyte,blog,large scale web scraping,2022-09-13,23:20:34
+Zyte,blog,scrapy cloud secrets hub crawl frontier and how to use it,2022-09-13,23:10:25
+Zyte,blog,extract articles at scale designing a web scraping solution,2022-09-13,23:10:13
+Zyte,blog,how to scrape the web without getting blocked,2022-09-13,22:52:36
+Zyte,blog,price intelligence with python scrapy sql pandas,2022-09-13,22:36:18
+Zyte,blog,how to extract data from an html table,2022-09-13,01:55:48
+Zyte,blog,web scraping large ecommerce websites,2022-09-13,01:53:05
+Zyte,webinars,legal compliance in web scraping,2022-09-13,01:52:57
+Zyte,webinars,scale your web scraping with proxies,2022-09-13,01:47:26
+Zyte,webinars,scrape the web without getting blocked,2022-09-13,01:43:54
+Zyte,blog,price intelligence web scraping at scale 100 billion products,2022-09-13,01:35:02
+Zyte,webinars,web data extraction the build in house vs outsource,2022-09-13,00:56:07
+Zyte,blog,extract summit 2021 come join the web data revolution,2022-09-13,00:50:33
+Zyte,blog,web scraping questions answers part 2,2022-09-13,00:50:27
+Zyte,blog,web scraping questions answers part 1,2022-09-13,00:47:20
+Zyte,blog,extract summit 2021 highlights and key takeaways,2022-09-13,00:44:54
+Zyte,blog,web data extraction summit 2021,2022-09-13,00:43:38
+Zyte,webinars,proxy management done right webinar,2022-09-07,22:51:18
+Zyte,webinars,article extraction maximizing data quality webinar,2022-09-07,22:42:21
+Zyte,webinars,zyte data quality assurance process,2022-09-07,22:39:48
+Zyte,webinars,web scraping can revolutionize data collection,2022-09-07,22:36:14
+Zyte,data-types,extract finance data,2022-09-07,22:34:03
+Zyte,blog,how can travel industry benefit from data scraping,2022-09-07,22:30:50
+Zyte,webinars,fuelling price intelligence with web data extraction webinar,2022-09-07,16:13:52
+Zyte,webinars,residential proxies v data center proxies in web scraping,2022-09-07,16:13:44
+Zyte,blog,how to scrape blogs guide,2022-09-07,16:05:42
+Zyte,blog,web scraping best pint of guinness dublin,2022-09-07,15:58:34
+Zyte,blog,developers guide to rotating proxies in python,2022-09-07,15:25:32
+Zyte,case-study,price edge the repricing platform for small merchants,2022-09-07,15:19:34
+Zyte,webinars,web data maturity model webinar,2022-09-07,15:16:04
+Zyte,blog,web scraping utilized for used car data,2022-09-01,22:02:59
+Zyte,blog,scraping blocks and bans,2022-09-01,22:01:50
+Zyte,blog,zyte developers community newsletter issue 9,2022-08-31,22:25:59
+Zyte,blog,zyte developers community newsletter issue 10,2022-08-31,22:21:27
+Zyte,blog,measuring web product data quality against the competition,2022-08-31,22:08:31
+Zyte,blog,what is web data harvesting,2022-08-31,21:58:02
+Zyte,blog,how to reduce noise in the data through data parsing,2022-08-31,21:52:32
+Zyte,case-study,adlede extracting news data for contextual advertising,2022-08-31,21:44:28
+Zyte,blog,how does a headless browser help with web scraping and data extraction,2022-08-31,21:34:16
+Zyte,case-study,case study peek,2022-08-31,21:22:59
+Zyte,case-study,liwango powering vacation rental intelligence with smart proxy manager,2022-08-31,21:13:51
+Zyte,blog,what is a proxy server and how do they work,2022-08-31,21:10:34
+Zyte,blog,product data extraction automatic,2022-08-26,20:56:16
+Zyte,blog,web snapshots,2022-08-26,18:11:26
+Zyte,learn,lead generation,2022-08-18,01:10:59
+Zyte,data-types,vehicle data,2022-08-18,01:02:20
+Zyte,learn,map compliance,2022-08-18,01:00:19
+Zyte,data-types,hotel data extraction,2022-08-18,00:56:22
+Zyte,blog,what is data mining,2022-08-18,00:52:03
+Zyte,learn,is web scraping legal,2022-08-18,00:49:48
+Zyte,learn,alternate data for finance,2022-08-18,00:36:40
+Zyte,learn,how to work around anti bots,2022-08-15,19:25:21
+Zyte,data-types,product data api,2022-08-15,19:20:30
+Zyte,blog,price scraping best free tool to scrape prices,2022-08-15,19:15:07
+Zyte,learn,brand monitoring,2022-08-15,19:09:56
+Zyte,learn,architecting a web scraping solution,2022-08-12,16:25:02
+Zyte,data-types,news scraping api,2022-08-11,18:38:41
+Zyte,learn,how to get started with web scraping using scrapy,2022-08-11,18:25:25
+Zyte,learn,price intelligence,2022-07-26,15:47:29
+Zyte,blog,how to build your own price monitoring tool,2022-07-26,15:18:45
+Zyte,blog,how to crawl the web politely with scrapy,2022-07-26,13:45:55
+Zyte,blog,why are rotating proxies important,2022-07-26,13:36:34
+Zyte,blog,a faster updated scrapinghub now zyte,2022-07-04,09:23:21
+Zyte,blog,scrapely the brains behind portia spiders,2022-07-04,09:15:12
+Zyte,blog,5 reasons to attend extract summit 2022,2022-06-14,15:16:37
+Zyte,learn,recruitment,2022-03-25,13:44:43
+Zyte,learn,market research,2022-03-25,13:43:10
+Zyte,learn,how to submit forms in your spiders,2022-03-25,13:39:05
+Zyte,learn,how to scrape multiple items per page,2022-03-25,13:38:20
+Zyte,learn,how to scrape javascript pages with splash,2022-03-25,13:37:31
+Zyte,learn,how to create your first scrapy spider,2022-03-25,13:34:50
+Zyte,learn,how to follow pagination links,2022-03-25,13:34:34
+Zyte,learn,how to scrape details pages from lists,2022-03-25,13:34:24
+Zyte,learn,how to scrape infinite scrolling pages,2022-03-25,13:31:39
+Zyte,learn,how to run your spiders in the cloud,2022-03-25,11:09:36
+Zyte,blog,how you can use web data to accelerate your startup,2022-02-27,16:46:32
+Zyte,blog,alternative data for hedge funds portfolio management,2022-02-16,17:49:12
+Zyte,learn,what are the elements of a web scraping project,2022-02-15,15:08:21
+Zyte,data-types,organizational data extraction,2022-02-15,11:50:39
+Zyte,data-types,extract video meta data,2022-02-15,11:50:00
+Zyte,blog,artificial intelligence data extraction api,2022-02-15,11:40:23
+Zyte,blog,what the suicide squad tells us about web data,2022-02-15,11:39:12
+Zyte,blog,web data analysis exposing nfl player salaries with python,2022-02-15,11:35:27
+Zyte,blog,visual web scraping tools what to do when they are no longer fit for purpose,2022-02-15,11:34:30
+Zyte,blog,spidermon scrapy spider monitoring,2022-02-15,11:25:07
+Zyte,blog,scrapyrt turn websites into real time apis,2022-02-15,11:23:52
+Zyte,blog,news article data extraction open source vs closed source solutions,2022-02-15,11:15:26
+Zyte,blog,looking back at 2016,2022-02-15,11:12:25
+Zyte,blog,looking back at 2015,2022-02-15,11:11:09
+Zyte,blog,introducing the datasets catalog,2022-02-15,11:07:51
+Zyte,blog,gdpr compliance tools web scraping crawlers,2022-02-08,13:45:25
+Zyte,blog,a practical guide to web data qa part v broad crawls,2022-02-08,13:09:48
+Zyte,blog,grow your data with monkeylearn addon,2022-02-07,13:48:17
+Zyte,blog,how to become a whistleblower from panama papers to open data,2022-02-07,13:43:15
+Zyte,blog,price intelligence questions answered,2022-02-07,13:06:49
+Zyte,blog,job postings at scale beta api,2022-02-07,13:04:16
+Zyte,learn,business automation,2022-02-07,11:55:01
+Zyte,webinars,gdpr and compliance in web scraping,2022-02-03,18:45:12
+Zyte,webinars,how to transition from office to remote working as a company,2022-02-03,18:42:11
+Zyte,case-study,kinzen providing structured news data for personalized feeds with ai,2022-02-03,16:05:54
+Zyte,data-types,scrape job postings,2022-02-03,16:05:54
+Zyte,data-types,restaurant data scraping,2022-02-03,16:05:54
+Zyte,data-types,web scraping real estate data,2022-02-03,16:05:53
+Zyte,data-types,medical drug and pharmaceutical data extraction,2022-02-03,16:05:53
+Zyte,data-types,extract movie data,2022-02-03,16:05:53
+Zyte,data-types,extract music meta data,2022-02-03,16:05:52
+Zyte,data-types,forum data extraction,2022-02-03,16:05:32
+Zyte,whitepaper-ebook,scale your web scraping,2022-02-03,16:05:12
+Zyte,blog,hello world,2022-02-03,16:02:38
+Zyte,blog,scrapy 0 12 released,2022-02-03,16:02:05
+Zyte,blog,introducing w3lib and scrapely,2022-02-03,16:01:47
+Zyte,blog,scrapy 0 14 released,2022-02-03,16:01:26
+Zyte,blog,scrapy 0 15 dropping support for python 2 5,2022-02-03,16:00:53
+Zyte,blog,introducing data reviews,2022-02-03,15:56:17
+Zyte,blog,looking back at 2014,2022-02-03,15:55:53
+Zyte,blog,introducing scrapyrt an api for scrapy spiders,2022-02-03,15:55:28
+Zyte,blog,new changes to our scrapy cloud platform,2022-02-03,15:55:13
+Zyte,blog,memex,2022-02-03,15:54:53
+Zyte,blog,handling javascript in scrapy with splash,2022-02-03,15:54:42
+Zyte,blog,skinfer a tool for inferring json schemas,2022-02-03,15:54:14
+Zyte,blog,history of zyte formerly scrapinghub,2022-02-03,15:54:02
+Zyte,blog,why we moved to slack,2022-02-03,15:53:51
+Zyte,blog,scrapinghub now zyte remote working success story,2022-02-03,15:53:34
+Zyte,blog,a career in remote working,2022-02-03,15:52:56
+Zyte,blog,traveling tips for remote workers,2022-02-03,15:52:45
+Zyte,blog,google summer of code 2015,2022-02-03,15:34:17
+Zyte,blog,pycon philippines 2015,2022-02-03,15:33:43
+Zyte,blog,startupchats remote working,2022-02-03,15:33:35
+Zyte,blog,the road to loading javascript in portia,2022-02-03,15:33:18
+Zyte,blog,distributed frontera web crawling at large scale,2022-02-03,15:33:00
+Zyte,blog,introducing javascript support for portia,2022-02-03,15:32:46
+Zyte,blog,scrapy on the road to python 3 support,2022-02-03,15:32:20
+Zyte,blog,aduana link analysis to crawl the web at scale,2022-02-03,15:31:54
+Zyte,blog,parse natural language dates with dateparser,2022-02-03,15:31:45
+Zyte,blog,tips for creating a cohesive company culture remotely,2022-02-03,15:31:26
+Zyte,blog,black friday cyber monday are they worth it,2022-02-03,15:31:10
+Zyte,blog,chats with rinar solutions,2022-02-03,15:30:59
+Zyte,blog,winter sales showdown black friday vs cyber monday vs green monday,2022-02-03,15:30:44
+Zyte,blog,christmas eve vs new years eve last minute price inflation,2022-02-03,15:30:23
+Zyte,blog,vizlegal rise of machine readable laws and court judgments,2022-02-03,15:29:58
+Zyte,blog,scrapy tips from the pros part 1,2022-02-03,15:29:38
+Zyte,blog,happy anniversary scrapinghub now zyte turns 5,2022-02-03,15:29:25
+Zyte,blog,python 3 support with scrapy 1,2022-02-03,15:29:15
+Zyte,blog,which stores are guilty of price inflation,2022-02-03,15:28:56
+Zyte,blog,portia alternative to kimono,2022-02-03,15:28:45
+Zyte,blog,scrapy tips from the pros february 2016 edition,2022-02-03,15:28:30
+Zyte,blog,migrate your kimono projects to portia,2022-02-03,15:28:20
+Zyte,blog,splash 2 0 here with qt 5 and python 3,2022-02-03,15:28:04
+Zyte,blog,how web scraping is revealing lobbying and corruption in peru,2022-02-03,15:27:48
+Zyte,blog,this month in open source at scrapinghub now zyte march 2016,2022-02-03,15:27:18
+Zyte,blog,web scraping to create open data,2022-02-03,15:26:50
+Zyte,blog,scrapy tips from the pros april 2016 edition,2022-02-03,15:26:04
+Zyte,blog,monkeylearn addon retail classifier tutorial,2022-02-03,15:25:24
+Zyte,blog,this month in open source at scrapinghub now zyte june 2016,2022-02-03,15:23:12
+Zyte,blog,scrapy tips from the pros june 2016,2022-02-03,15:22:57
+Zyte,blog,introducing portia2code portia projects into scrapy spiders,2022-02-03,15:22:43
+Zyte,blog,improving access to peruvian congress bills with scrapy,2022-02-03,15:22:12
+Zyte,blog,scrapy tips from the pros july 2016,2022-02-03,15:21:32
+Zyte,blog,meet parsel the selector library behind scrapy,2022-02-03,15:21:23
+Zyte,blog,this month in open source at scrapinghub now zyte august 2016,2022-02-03,15:21:06
+Zyte,blog,improved frontera web crawling at scale with python 3 support,2022-02-03,15:19:55
+Zyte,blog,how to deploy custom docker images for your web crawlers,2022-02-03,15:16:29
+Zyte,blog,embracing the future of work how to communicate remotely,2022-02-03,15:16:08
+Zyte,blog,interview how up hail uses scrapy to increase transparency,2022-01-31,17:05:38
+Zyte,blog,do androids dream of electric sheep,2022-01-31,17:03:54
+Zyte,blog,looking back at 2017,2022-01-31,17:03:22
+Zyte,blog,fitbit quarterly revenue web scraped product data,2022-01-31,17:02:57
+Zyte,blog,a sneak peek inside what hedge funds think of alternative financial data,2022-01-31,17:02:45
+Zyte,blog,web scraping gdpr compliance guide,2022-01-31,17:02:19
+Zyte,blog,what i learned as a google summer of code student at zyte,2022-01-31,17:01:45
+Zyte,blog,shubber gettogether 2018,2022-01-31,16:56:24
+Zyte,blog,gdpr web scraping iiap europe data protection congress,2022-01-31,16:55:50
+Zyte,blog,gopro study,2022-01-31,16:55:17
+Zyte,blog,regulatory compliance for alternative web scraped financial data,2022-01-31,16:52:22
+Zyte,blog,gdpr public personal data update,2022-01-31,16:49:14
+Zyte,blog,the first web data extraction summit,2022-01-31,16:48:39
+Zyte,blog,use cases for online public sentiment data,2022-01-31,16:48:12
+Zyte,blog,gain a competitive edge with product data,2022-01-31,16:48:04
+Zyte,blog,4 sectors that benefited most from business intelligence software,2022-01-31,16:45:44
+Zyte,blog,zyte developers community newsletter issue 5,2022-01-31,16:40:51
+Zyte,blog,zyte developers community newsletter issue 6,2022-01-31,16:40:42
+Zyte,blog,zyte developers community newsletter issue 7,2022-01-31,16:40:28
+Zyte,blog,zyte developers community newsletter issue 8,2022-01-31,16:40:12
+Zyte,whitepaper-ebook,memex revolutionizing search and fighting the good fight,2022-01-05,11:58:28
+Zyte,blog,zyte named as one of deloitte technology fast 50,2021-12-09,14:43:22
+Zyte,blog,price gouging or economics at work price intelligence to track consumer sentiment,2021-11-18,12:57:22
+Zyte,learn,web scraping best practices,2021-10-20,07:03:58
+Zyte,learn,data driven products,2021-10-20,06:46:20
+Zyte,blog,web scraping requirement gathering,2021-10-20,05:04:13
+Zyte,blog,solution architecture part 5 designing a solution estimating resource requirements,2021-10-20,05:01:32
+Zyte,blog,solution architecture part 3 conducting a web scraping legal review,2021-10-20,05:00:01
+Zyte,blog,zyte developers community newsletter issue 2,2021-09-22,11:09:58
+Zyte,blog,recruitment tips to find top talent,2021-09-22,10:59:54
+Zyte,blog,news web data extraction to predict irish election results,2021-09-22,10:53:39
+Zyte,data-types,flight data extraction,2021-09-03,13:43:11
+Zyte,data-types,comment data extraction,2021-09-03,13:42:41
+Zyte,blog,guide to web data extraction qa validation techniques,2021-08-09,11:51:53
+Zyte,learn,what is web scraping used for learn,2021-07-05,09:29:21
+Zyte,blog,covid 19 handling the situation as a fully remote company,2021-06-29,15:37:44
+Zyte,blog,transitioning to remote working as a company,2021-06-29,15:26:46
+Zyte,blog,vehicle api launch,2021-06-29,15:26:12
+Zyte,blog,product reviews api beta extract product reviews at scale,2021-06-29,13:42:38
+Zyte,blog,job postings api stable release,2021-06-29,13:41:40
+Zyte,blog,blog comments api beta release,2021-06-29,13:39:04
+Zyte,blog,web data extraction summit 2020,2021-06-29,13:37:42
+Zyte,blog,announcing the web data extraction summit 2020,2021-06-29,13:33:25
+Zyte,blog,zyte developers community newsletter issue 4,2021-05-21,15:11:42
+Zyte,blog,dateparser a powerful date parsing library,2021-05-06,11:10:04
+Zyte,blog,insurance credit scoring enhanced with alternative data,2021-04-30,09:29:24
+Zyte,blog,zyte developers community newsletter issue 3,2021-04-28,16:42:52
+Zyte,blog,zyte developers community newsletter issue 1,2021-03-29,13:35:27
+Zyte,blog,scrapinghub is now zyte,2021-02-02,09:34:11

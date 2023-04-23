@@ -1,0 +1,2466 @@
+[
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "json parsing with python",
+        "date": "2023-04-06",
+        "time": "14:42:05"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scraping e commerce websites product data at scale",
+        "date": "2023-04-06",
+        "time": "14:39:47"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to safely extract data from social media platforms and news sites",
+        "date": "2023-03-31",
+        "time": "05:28:01"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "do you have the right data fields for your e commerce data project",
+        "date": "2023-03-30",
+        "time": "06:34:37"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "how to launch a large scale web data extraction project",
+        "date": "2023-03-30",
+        "time": "05:55:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "importance web scraping data journalism",
+        "date": "2023-03-29",
+        "time": "17:59:08"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "challenges enterprise ecommerce web scraping proxies",
+        "date": "2023-03-21",
+        "time": "07:27:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how web data can fuel your dynamic pricing strategy",
+        "date": "2023-03-21",
+        "time": "06:53:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scraping customer reviews",
+        "date": "2023-03-21",
+        "time": "06:29:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "the right data fields for e commerce data project",
+        "date": "2023-03-21",
+        "time": "06:17:35"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "comprehensive overview of web data quality assurance",
+        "date": "2023-03-20",
+        "time": "10:04:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "web data 101 planning for success with web data",
+        "date": "2023-03-13",
+        "time": "06:10:06"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "discovering the best way to access web data",
+        "date": "2023-03-13",
+        "time": "06:09:02"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "conducting a web scraping legal compliance review",
+        "date": "2023-03-13",
+        "time": "06:05:52"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "a deep dive into news sentiment by scraping 10000 economic and business articles",
+        "date": "2023-03-02",
+        "time": "11:25:29"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to extract data from a website",
+        "date": "2023-02-24",
+        "time": "16:07:37"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "summit 2022 takeways",
+        "date": "2023-02-24",
+        "time": "15:54:57"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "difference between web scraping and web crawling",
+        "date": "2023-02-24",
+        "time": "15:50:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "what is web scraping",
+        "date": "2023-02-24",
+        "time": "15:23:49"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "enterprise web scraping more data more reliably 2",
+        "date": "2023-02-24",
+        "time": "04:36:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "enterprise web scraping more data more reliably",
+        "date": "2023-02-24",
+        "time": "04:25:05"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "a new way to scrape data with zyte api",
+        "date": "2023-02-24",
+        "time": "04:23:19"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "scrape with zyte api",
+        "date": "2023-02-09",
+        "time": "12:33:43"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "web data 101 planning for success",
+        "date": "2023-02-01",
+        "time": "07:05:13"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "social media news data extraction webinar",
+        "date": "2023-01-17",
+        "time": "05:28:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing zyte api",
+        "date": "2022-12-22",
+        "time": "21:03:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "blackfriday web data extraction",
+        "date": "2022-12-16",
+        "time": "19:00:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "python requests proxy",
+        "date": "2022-12-15",
+        "time": "21:22:58"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "social media and news data extraction heres how to do it right",
+        "date": "2022-12-15",
+        "time": "14:07:17"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping digital transformation",
+        "date": "2022-11-30",
+        "time": "20:58:49"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "importio alternative",
+        "date": "2022-11-28",
+        "time": "14:50:47"
+    },
+    {
+        "site": "Zyte",
+        "type": "terms-policies",
+        "topic": "dpa",
+        "date": "2022-11-25",
+        "time": "09:26:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping e commerce",
+        "date": "2022-11-25",
+        "time": "02:18:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "terms-policies",
+        "topic": "cookie policy",
+        "date": "2022-11-24",
+        "time": "10:52:00"
+    },
+    {
+        "site": "Zyte",
+        "type": "terms-policies",
+        "topic": "privacy policy",
+        "date": "2022-11-24",
+        "time": "10:51:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "terms-policies",
+        "topic": "terms of service",
+        "date": "2022-11-24",
+        "time": "10:50:57"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapers system compass",
+        "date": "2022-11-21",
+        "time": "20:32:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "a practical guide to web data qa part iv complementing semi automated techniques",
+        "date": "2022-11-18",
+        "time": "00:03:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "data center proxies vs residential proxies",
+        "date": "2022-11-18",
+        "time": "00:02:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "data extraction with scrapy and python",
+        "date": "2022-11-18",
+        "time": "00:00:41"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web data qa common validation pitfalls",
+        "date": "2022-11-17",
+        "time": "23:59:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "spidermon the secret sauce to our data quality guarantee",
+        "date": "2022-11-17",
+        "time": "23:58:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping real estate data use cases",
+        "date": "2022-11-17",
+        "time": "23:57:06"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to use a proxy in puppeteer",
+        "date": "2022-11-17",
+        "time": "22:59:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "backconnect proxy",
+        "date": "2022-11-17",
+        "time": "22:57:47"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to get high success rates with proxies 3 steps to scale up",
+        "date": "2022-11-17",
+        "time": "22:55:58"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "in house vs off the shelf proxy management",
+        "date": "2022-11-17",
+        "time": "22:53:35"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy matplotlib and mysql real estate data analysis",
+        "date": "2022-11-15",
+        "time": "19:55:06"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "building spiders made easy gui for your scrapy shell",
+        "date": "2022-11-15",
+        "time": "19:53:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "extracting clean article html with autoextract",
+        "date": "2022-11-15",
+        "time": "19:52:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web data qa part iii combining manual and automated techniques for holistic data validation",
+        "date": "2022-11-15",
+        "time": "19:47:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "an introduction to xpath with examples",
+        "date": "2022-11-15",
+        "time": "19:45:29"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping basics tools",
+        "date": "2022-11-15",
+        "time": "19:44:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "extracting schema org microdata using scrapy selectors and xpath",
+        "date": "2022-11-15",
+        "time": "19:41:46"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "xpath tips from the web scraping trenches",
+        "date": "2022-11-15",
+        "time": "19:37:30"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy autoextract api integration",
+        "date": "2022-11-10",
+        "time": "12:05:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "automatic extraction data extractor review",
+        "date": "2022-11-10",
+        "time": "11:56:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "developer data extraction api for product article extraction",
+        "date": "2022-11-10",
+        "time": "11:43:17"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing scrapy cloud with python 3 support",
+        "date": "2022-11-09",
+        "time": "21:18:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing scrapy cloud 2 0",
+        "date": "2022-11-09",
+        "time": "21:17:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "deploy your scrapy spiders from github",
+        "date": "2022-11-09",
+        "time": "21:15:44"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tips from the pros may 2016 edition",
+        "date": "2022-11-09",
+        "time": "21:15:41"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how scrapy makes web crawling easy",
+        "date": "2022-11-09",
+        "time": "21:15:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "extract json using chompjs and jmespath",
+        "date": "2022-11-09",
+        "time": "21:06:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "article data extraction",
+        "date": "2022-11-04",
+        "time": "23:20:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "the zyte smart proxy manager crawlera story",
+        "date": "2022-11-04",
+        "time": "19:02:15"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing zyte smart proxy manager crawlera free trials new plans",
+        "date": "2022-11-04",
+        "time": "18:59:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "zyte smart proxy manager crawlera tactics demystified",
+        "date": "2022-11-04",
+        "time": "18:57:36"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "zyte smart proxy manager formerly crawlera and headless browsers",
+        "date": "2022-11-04",
+        "time": "18:57:09"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "zyte smart proxy manager formerly crawlera and scrapy tips",
+        "date": "2022-11-04",
+        "time": "18:56:37"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "zyte smart proxy manager with headless browsers",
+        "date": "2022-11-04",
+        "time": "18:56:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "residential proxies how are they different to data center proxies how to manage them",
+        "date": "2022-11-04",
+        "time": "18:54:36"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "proxies versus vpns whats the difference and which one is right for my use case",
+        "date": "2022-11-04",
+        "time": "18:52:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scalable scraping secrets",
+        "date": "2022-11-04",
+        "time": "17:58:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "optimize data strategy",
+        "date": "2022-11-04",
+        "time": "17:21:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "automated data qa",
+        "date": "2022-11-01",
+        "time": "19:31:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "reflecting on the 2022 web data extraction summit zyte",
+        "date": "2022-10-25",
+        "time": "14:37:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web data extraction summit 2022",
+        "date": "2022-10-24",
+        "time": "12:10:09"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "data quality assurance for enterprise web scraping",
+        "date": "2022-10-21",
+        "time": "22:33:48"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "enterprise data extraction",
+        "date": "2022-10-21",
+        "time": "22:31:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to use zyte smart proxy manager with scrapy",
+        "date": "2022-10-21",
+        "time": "22:21:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "sneak peek inside zyte smart proxy manager crawlera",
+        "date": "2022-10-21",
+        "time": "22:18:47"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to use selenium with zyte smart proxy manager",
+        "date": "2022-10-21",
+        "time": "22:12:41"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to use playwright with zyte smart proxy manager",
+        "date": "2022-10-21",
+        "time": "22:10:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to use puppeteer with zyte smart proxy manager",
+        "date": "2022-10-21",
+        "time": "22:07:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scale up your scrapy projects with zyte smart proxy manager formerly crawlera",
+        "date": "2022-10-21",
+        "time": "22:05:11"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "zyte smart proxy manager with headless browser libraries",
+        "date": "2022-10-21",
+        "time": "22:01:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "web scraping become too hard to handle",
+        "date": "2022-10-20",
+        "time": "23:45:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "web scraping best practices 2",
+        "date": "2022-10-20",
+        "time": "23:43:31"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "press release scrapinghub is now zyte",
+        "date": "2022-10-20",
+        "time": "23:41:30"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "using web data to generate alpha",
+        "date": "2022-10-20",
+        "time": "20:35:10"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "data use cases fueling business intelligence with web scraped news data",
+        "date": "2022-10-20",
+        "time": "20:34:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "ranktank crawling serp real time with great success rate",
+        "date": "2022-10-20",
+        "time": "20:33:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "empowering analysis with online public sentiment data",
+        "date": "2022-10-20",
+        "time": "20:31:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "bridge below providing a smart proxy solution to extract automotive web data",
+        "date": "2022-10-20",
+        "time": "20:29:05"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "inflation monitoring through web scraping",
+        "date": "2022-10-20",
+        "time": "20:28:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "web scraped alternative data for finance",
+        "date": "2022-10-20",
+        "time": "20:25:47"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "leveling up market research with web scraping",
+        "date": "2022-10-20",
+        "time": "20:24:42"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "quality assurance the secret to a successful web scraping project",
+        "date": "2022-10-20",
+        "time": "20:22:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "mining web data to uncover job listings wage trends",
+        "date": "2022-10-20",
+        "time": "20:19:31"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "fueling real estates big data revolution with web scraping",
+        "date": "2022-10-20",
+        "time": "20:18:19"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "in depth analysis and evaluation on the quality of article body extraction",
+        "date": "2022-10-20",
+        "time": "20:15:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "product price promotion and positioning monitoring at scale an ecommerce case study",
+        "date": "2022-10-20",
+        "time": "20:13:43"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy update better broad crawl performance",
+        "date": "2022-10-20",
+        "time": "20:12:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "launching the zyte developers community",
+        "date": "2022-10-20",
+        "time": "20:10:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "van buren a victory for web scrapers",
+        "date": "2022-10-20",
+        "time": "20:09:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "data mining ai",
+        "date": "2022-10-20",
+        "time": "00:54:43"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "what python web scraping tools are available",
+        "date": "2022-10-17",
+        "time": "05:47:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "hacktoberfest 2022",
+        "date": "2022-10-06",
+        "time": "14:55:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "use proxies for web scraping",
+        "date": "2022-09-29",
+        "time": "22:38:06"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to scale up web scraping",
+        "date": "2022-09-29",
+        "time": "22:33:15"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "proxies for web scraping",
+        "date": "2022-09-29",
+        "time": "22:27:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "best web scraping proxy management solution",
+        "date": "2022-09-29",
+        "time": "22:16:03"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "manage bans and get your data zyte data api",
+        "date": "2022-09-28",
+        "time": "23:08:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "frontera the brain behind the crawls",
+        "date": "2022-09-27",
+        "time": "20:35:03"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "git for managing vacations",
+        "date": "2022-09-27",
+        "time": "20:31:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "europython here we go",
+        "date": "2022-09-27",
+        "time": "20:26:09"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tsocks",
+        "date": "2022-09-27",
+        "time": "20:24:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "dirbot a new example scrapy project",
+        "date": "2022-09-27",
+        "time": "20:21:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "autoscraping casts a wider net",
+        "date": "2022-09-27",
+        "time": "20:20:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "finding similar items",
+        "date": "2022-09-27",
+        "time": "20:19:08"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "spiders activity graphs",
+        "date": "2022-09-27",
+        "time": "20:18:02"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "git workflow scrapy projects",
+        "date": "2022-09-27",
+        "time": "20:14:03"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing crawlera now zyte smart proxy manager",
+        "date": "2022-09-27",
+        "time": "20:12:49"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "mongo bad for scraped data",
+        "date": "2022-09-27",
+        "time": "20:12:00"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "marcos campal is a scrapinghubber",
+        "date": "2022-09-27",
+        "time": "20:09:58"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "looking back at 2013",
+        "date": "2022-09-27",
+        "time": "20:08:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "open source at scrapinghub now zyte",
+        "date": "2022-09-27",
+        "time": "20:07:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "optimizing memory usage of scikit learn models using succinct tries",
+        "date": "2022-09-27",
+        "time": "20:06:37"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "announcing portia",
+        "date": "2022-09-27",
+        "time": "20:04:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "news api blog importance of article quality",
+        "date": "2022-09-14",
+        "time": "14:34:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "product data extraction quality evaluation",
+        "date": "2022-09-14",
+        "time": "14:00:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "intelligo",
+        "date": "2022-09-14",
+        "time": "13:59:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "uncategorized",
+        "topic": "e commerce resources gate",
+        "date": "2022-09-14",
+        "time": "13:58:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "debunk eu scrapes millions of news articles with zyte",
+        "date": "2022-09-14",
+        "time": "13:51:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "everything you wanted to know about extracting e commerce web data",
+        "date": "2022-09-14",
+        "time": "13:31:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "web data extraction fuels price competitive intelligence",
+        "date": "2022-09-14",
+        "time": "13:27:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "measuring product data extraction quality against the competition",
+        "date": "2022-09-14",
+        "time": "13:14:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "web scraping revolution no more spiders",
+        "date": "2022-09-14",
+        "time": "13:10:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "the importance of web data and how to easily access it",
+        "date": "2022-09-13",
+        "time": "23:24:08"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "large scale web scraping",
+        "date": "2022-09-13",
+        "time": "23:20:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy cloud secrets hub crawl frontier and how to use it",
+        "date": "2022-09-13",
+        "time": "23:10:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "extract articles at scale designing a web scraping solution",
+        "date": "2022-09-13",
+        "time": "23:10:13"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to scrape the web without getting blocked",
+        "date": "2022-09-13",
+        "time": "22:52:36"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "price intelligence with python scrapy sql pandas",
+        "date": "2022-09-13",
+        "time": "22:36:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to extract data from an html table",
+        "date": "2022-09-13",
+        "time": "01:55:48"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping large ecommerce websites",
+        "date": "2022-09-13",
+        "time": "01:53:05"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "legal compliance in web scraping",
+        "date": "2022-09-13",
+        "time": "01:52:57"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "scale your web scraping with proxies",
+        "date": "2022-09-13",
+        "time": "01:47:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "scrape the web without getting blocked",
+        "date": "2022-09-13",
+        "time": "01:43:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "price intelligence web scraping at scale 100 billion products",
+        "date": "2022-09-13",
+        "time": "01:35:02"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "web data extraction the build in house vs outsource",
+        "date": "2022-09-13",
+        "time": "00:56:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "extract summit 2021 come join the web data revolution",
+        "date": "2022-09-13",
+        "time": "00:50:33"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping questions answers part 2",
+        "date": "2022-09-13",
+        "time": "00:50:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping questions answers part 1",
+        "date": "2022-09-13",
+        "time": "00:47:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "extract summit 2021 highlights and key takeaways",
+        "date": "2022-09-13",
+        "time": "00:44:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web data extraction summit 2021",
+        "date": "2022-09-13",
+        "time": "00:43:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "proxy management done right webinar",
+        "date": "2022-09-07",
+        "time": "22:51:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "article extraction maximizing data quality webinar",
+        "date": "2022-09-07",
+        "time": "22:42:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "zyte data quality assurance process",
+        "date": "2022-09-07",
+        "time": "22:39:48"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "web scraping can revolutionize data collection",
+        "date": "2022-09-07",
+        "time": "22:36:14"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "extract finance data",
+        "date": "2022-09-07",
+        "time": "22:34:03"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how can travel industry benefit from data scraping",
+        "date": "2022-09-07",
+        "time": "22:30:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "fuelling price intelligence with web data extraction webinar",
+        "date": "2022-09-07",
+        "time": "16:13:52"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "residential proxies v data center proxies in web scraping",
+        "date": "2022-09-07",
+        "time": "16:13:44"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to scrape blogs guide",
+        "date": "2022-09-07",
+        "time": "16:05:42"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping best pint of guinness dublin",
+        "date": "2022-09-07",
+        "time": "15:58:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "developers guide to rotating proxies in python",
+        "date": "2022-09-07",
+        "time": "15:25:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "price edge the repricing platform for small merchants",
+        "date": "2022-09-07",
+        "time": "15:19:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "web data maturity model webinar",
+        "date": "2022-09-07",
+        "time": "15:16:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping utilized for used car data",
+        "date": "2022-09-01",
+        "time": "22:02:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scraping blocks and bans",
+        "date": "2022-09-01",
+        "time": "22:01:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 9",
+        "date": "2022-08-31",
+        "time": "22:25:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 10",
+        "date": "2022-08-31",
+        "time": "22:21:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "measuring web product data quality against the competition",
+        "date": "2022-08-31",
+        "time": "22:08:31"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "what is web data harvesting",
+        "date": "2022-08-31",
+        "time": "21:58:02"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to reduce noise in the data through data parsing",
+        "date": "2022-08-31",
+        "time": "21:52:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "adlede extracting news data for contextual advertising",
+        "date": "2022-08-31",
+        "time": "21:44:28"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how does a headless browser help with web scraping and data extraction",
+        "date": "2022-08-31",
+        "time": "21:34:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "case study peek",
+        "date": "2022-08-31",
+        "time": "21:22:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "liwango powering vacation rental intelligence with smart proxy manager",
+        "date": "2022-08-31",
+        "time": "21:13:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "what is a proxy server and how do they work",
+        "date": "2022-08-31",
+        "time": "21:10:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "product data extraction automatic",
+        "date": "2022-08-26",
+        "time": "20:56:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web snapshots",
+        "date": "2022-08-26",
+        "time": "18:11:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "lead generation",
+        "date": "2022-08-18",
+        "time": "01:10:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "vehicle data",
+        "date": "2022-08-18",
+        "time": "01:02:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "map compliance",
+        "date": "2022-08-18",
+        "time": "01:00:19"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "hotel data extraction",
+        "date": "2022-08-18",
+        "time": "00:56:22"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "what is data mining",
+        "date": "2022-08-18",
+        "time": "00:52:03"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "is web scraping legal",
+        "date": "2022-08-18",
+        "time": "00:49:48"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "alternate data for finance",
+        "date": "2022-08-18",
+        "time": "00:36:40"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to work around anti bots",
+        "date": "2022-08-15",
+        "time": "19:25:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "product data api",
+        "date": "2022-08-15",
+        "time": "19:20:30"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "price scraping best free tool to scrape prices",
+        "date": "2022-08-15",
+        "time": "19:15:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "brand monitoring",
+        "date": "2022-08-15",
+        "time": "19:09:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "architecting a web scraping solution",
+        "date": "2022-08-12",
+        "time": "16:25:02"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "news scraping api",
+        "date": "2022-08-11",
+        "time": "18:38:41"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to get started with web scraping using scrapy",
+        "date": "2022-08-11",
+        "time": "18:25:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "price intelligence",
+        "date": "2022-07-26",
+        "time": "15:47:29"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to build your own price monitoring tool",
+        "date": "2022-07-26",
+        "time": "15:18:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to crawl the web politely with scrapy",
+        "date": "2022-07-26",
+        "time": "13:45:55"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "why are rotating proxies important",
+        "date": "2022-07-26",
+        "time": "13:36:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "a faster updated scrapinghub now zyte",
+        "date": "2022-07-04",
+        "time": "09:23:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapely the brains behind portia spiders",
+        "date": "2022-07-04",
+        "time": "09:15:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "5 reasons to attend extract summit 2022",
+        "date": "2022-06-14",
+        "time": "15:16:37"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "recruitment",
+        "date": "2022-03-25",
+        "time": "13:44:43"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "market research",
+        "date": "2022-03-25",
+        "time": "13:43:10"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to submit forms in your spiders",
+        "date": "2022-03-25",
+        "time": "13:39:05"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to scrape multiple items per page",
+        "date": "2022-03-25",
+        "time": "13:38:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to scrape javascript pages with splash",
+        "date": "2022-03-25",
+        "time": "13:37:31"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to create your first scrapy spider",
+        "date": "2022-03-25",
+        "time": "13:34:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to follow pagination links",
+        "date": "2022-03-25",
+        "time": "13:34:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to scrape details pages from lists",
+        "date": "2022-03-25",
+        "time": "13:34:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to scrape infinite scrolling pages",
+        "date": "2022-03-25",
+        "time": "13:31:39"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "how to run your spiders in the cloud",
+        "date": "2022-03-25",
+        "time": "11:09:36"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how you can use web data to accelerate your startup",
+        "date": "2022-02-27",
+        "time": "16:46:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "alternative data for hedge funds portfolio management",
+        "date": "2022-02-16",
+        "time": "17:49:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "what are the elements of a web scraping project",
+        "date": "2022-02-15",
+        "time": "15:08:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "organizational data extraction",
+        "date": "2022-02-15",
+        "time": "11:50:39"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "extract video meta data",
+        "date": "2022-02-15",
+        "time": "11:50:00"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "artificial intelligence data extraction api",
+        "date": "2022-02-15",
+        "time": "11:40:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "what the suicide squad tells us about web data",
+        "date": "2022-02-15",
+        "time": "11:39:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web data analysis exposing nfl player salaries with python",
+        "date": "2022-02-15",
+        "time": "11:35:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "visual web scraping tools what to do when they are no longer fit for purpose",
+        "date": "2022-02-15",
+        "time": "11:34:30"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "spidermon scrapy spider monitoring",
+        "date": "2022-02-15",
+        "time": "11:25:07"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapyrt turn websites into real time apis",
+        "date": "2022-02-15",
+        "time": "11:23:52"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "news article data extraction open source vs closed source solutions",
+        "date": "2022-02-15",
+        "time": "11:15:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "looking back at 2016",
+        "date": "2022-02-15",
+        "time": "11:12:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "looking back at 2015",
+        "date": "2022-02-15",
+        "time": "11:11:09"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing the datasets catalog",
+        "date": "2022-02-15",
+        "time": "11:07:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "gdpr compliance tools web scraping crawlers",
+        "date": "2022-02-08",
+        "time": "13:45:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "a practical guide to web data qa part v broad crawls",
+        "date": "2022-02-08",
+        "time": "13:09:48"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "grow your data with monkeylearn addon",
+        "date": "2022-02-07",
+        "time": "13:48:17"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to become a whistleblower from panama papers to open data",
+        "date": "2022-02-07",
+        "time": "13:43:15"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "price intelligence questions answered",
+        "date": "2022-02-07",
+        "time": "13:06:49"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "job postings at scale beta api",
+        "date": "2022-02-07",
+        "time": "13:04:16"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "business automation",
+        "date": "2022-02-07",
+        "time": "11:55:01"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "gdpr and compliance in web scraping",
+        "date": "2022-02-03",
+        "time": "18:45:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "webinars",
+        "topic": "how to transition from office to remote working as a company",
+        "date": "2022-02-03",
+        "time": "18:42:11"
+    },
+    {
+        "site": "Zyte",
+        "type": "case-study",
+        "topic": "kinzen providing structured news data for personalized feeds with ai",
+        "date": "2022-02-03",
+        "time": "16:05:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "scrape job postings",
+        "date": "2022-02-03",
+        "time": "16:05:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "restaurant data scraping",
+        "date": "2022-02-03",
+        "time": "16:05:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "web scraping real estate data",
+        "date": "2022-02-03",
+        "time": "16:05:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "medical drug and pharmaceutical data extraction",
+        "date": "2022-02-03",
+        "time": "16:05:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "extract movie data",
+        "date": "2022-02-03",
+        "time": "16:05:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "extract music meta data",
+        "date": "2022-02-03",
+        "time": "16:05:52"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "forum data extraction",
+        "date": "2022-02-03",
+        "time": "16:05:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "scale your web scraping",
+        "date": "2022-02-03",
+        "time": "16:05:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "hello world",
+        "date": "2022-02-03",
+        "time": "16:02:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy 0 12 released",
+        "date": "2022-02-03",
+        "time": "16:02:05"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing w3lib and scrapely",
+        "date": "2022-02-03",
+        "time": "16:01:47"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy 0 14 released",
+        "date": "2022-02-03",
+        "time": "16:01:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy 0 15 dropping support for python 2 5",
+        "date": "2022-02-03",
+        "time": "16:00:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing data reviews",
+        "date": "2022-02-03",
+        "time": "15:56:17"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "looking back at 2014",
+        "date": "2022-02-03",
+        "time": "15:55:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing scrapyrt an api for scrapy spiders",
+        "date": "2022-02-03",
+        "time": "15:55:28"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "new changes to our scrapy cloud platform",
+        "date": "2022-02-03",
+        "time": "15:55:13"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "memex",
+        "date": "2022-02-03",
+        "time": "15:54:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "handling javascript in scrapy with splash",
+        "date": "2022-02-03",
+        "time": "15:54:42"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "skinfer a tool for inferring json schemas",
+        "date": "2022-02-03",
+        "time": "15:54:14"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "history of zyte formerly scrapinghub",
+        "date": "2022-02-03",
+        "time": "15:54:02"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "why we moved to slack",
+        "date": "2022-02-03",
+        "time": "15:53:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapinghub now zyte remote working success story",
+        "date": "2022-02-03",
+        "time": "15:53:34"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "a career in remote working",
+        "date": "2022-02-03",
+        "time": "15:52:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "traveling tips for remote workers",
+        "date": "2022-02-03",
+        "time": "15:52:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "google summer of code 2015",
+        "date": "2022-02-03",
+        "time": "15:34:17"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "pycon philippines 2015",
+        "date": "2022-02-03",
+        "time": "15:33:43"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "startupchats remote working",
+        "date": "2022-02-03",
+        "time": "15:33:35"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "the road to loading javascript in portia",
+        "date": "2022-02-03",
+        "time": "15:33:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "distributed frontera web crawling at large scale",
+        "date": "2022-02-03",
+        "time": "15:33:00"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing javascript support for portia",
+        "date": "2022-02-03",
+        "time": "15:32:46"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy on the road to python 3 support",
+        "date": "2022-02-03",
+        "time": "15:32:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "aduana link analysis to crawl the web at scale",
+        "date": "2022-02-03",
+        "time": "15:31:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "parse natural language dates with dateparser",
+        "date": "2022-02-03",
+        "time": "15:31:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "tips for creating a cohesive company culture remotely",
+        "date": "2022-02-03",
+        "time": "15:31:26"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "black friday cyber monday are they worth it",
+        "date": "2022-02-03",
+        "time": "15:31:10"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "chats with rinar solutions",
+        "date": "2022-02-03",
+        "time": "15:30:59"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "winter sales showdown black friday vs cyber monday vs green monday",
+        "date": "2022-02-03",
+        "time": "15:30:44"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "christmas eve vs new years eve last minute price inflation",
+        "date": "2022-02-03",
+        "time": "15:30:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "vizlegal rise of machine readable laws and court judgments",
+        "date": "2022-02-03",
+        "time": "15:29:58"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tips from the pros part 1",
+        "date": "2022-02-03",
+        "time": "15:29:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "happy anniversary scrapinghub now zyte turns 5",
+        "date": "2022-02-03",
+        "time": "15:29:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "python 3 support with scrapy 1",
+        "date": "2022-02-03",
+        "time": "15:29:15"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "which stores are guilty of price inflation",
+        "date": "2022-02-03",
+        "time": "15:28:56"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "portia alternative to kimono",
+        "date": "2022-02-03",
+        "time": "15:28:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tips from the pros february 2016 edition",
+        "date": "2022-02-03",
+        "time": "15:28:30"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "migrate your kimono projects to portia",
+        "date": "2022-02-03",
+        "time": "15:28:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "splash 2 0 here with qt 5 and python 3",
+        "date": "2022-02-03",
+        "time": "15:28:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how web scraping is revealing lobbying and corruption in peru",
+        "date": "2022-02-03",
+        "time": "15:27:48"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "this month in open source at scrapinghub now zyte march 2016",
+        "date": "2022-02-03",
+        "time": "15:27:18"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping to create open data",
+        "date": "2022-02-03",
+        "time": "15:26:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tips from the pros april 2016 edition",
+        "date": "2022-02-03",
+        "time": "15:26:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "monkeylearn addon retail classifier tutorial",
+        "date": "2022-02-03",
+        "time": "15:25:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "this month in open source at scrapinghub now zyte june 2016",
+        "date": "2022-02-03",
+        "time": "15:23:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tips from the pros june 2016",
+        "date": "2022-02-03",
+        "time": "15:22:57"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "introducing portia2code portia projects into scrapy spiders",
+        "date": "2022-02-03",
+        "time": "15:22:43"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "improving access to peruvian congress bills with scrapy",
+        "date": "2022-02-03",
+        "time": "15:22:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapy tips from the pros july 2016",
+        "date": "2022-02-03",
+        "time": "15:21:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "meet parsel the selector library behind scrapy",
+        "date": "2022-02-03",
+        "time": "15:21:23"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "this month in open source at scrapinghub now zyte august 2016",
+        "date": "2022-02-03",
+        "time": "15:21:06"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "improved frontera web crawling at scale with python 3 support",
+        "date": "2022-02-03",
+        "time": "15:19:55"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "how to deploy custom docker images for your web crawlers",
+        "date": "2022-02-03",
+        "time": "15:16:29"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "embracing the future of work how to communicate remotely",
+        "date": "2022-02-03",
+        "time": "15:16:08"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "interview how up hail uses scrapy to increase transparency",
+        "date": "2022-01-31",
+        "time": "17:05:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "do androids dream of electric sheep",
+        "date": "2022-01-31",
+        "time": "17:03:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "looking back at 2017",
+        "date": "2022-01-31",
+        "time": "17:03:22"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "fitbit quarterly revenue web scraped product data",
+        "date": "2022-01-31",
+        "time": "17:02:57"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "a sneak peek inside what hedge funds think of alternative financial data",
+        "date": "2022-01-31",
+        "time": "17:02:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping gdpr compliance guide",
+        "date": "2022-01-31",
+        "time": "17:02:19"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "what i learned as a google summer of code student at zyte",
+        "date": "2022-01-31",
+        "time": "17:01:45"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "shubber gettogether 2018",
+        "date": "2022-01-31",
+        "time": "16:56:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "gdpr web scraping iiap europe data protection congress",
+        "date": "2022-01-31",
+        "time": "16:55:50"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "gopro study",
+        "date": "2022-01-31",
+        "time": "16:55:17"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "regulatory compliance for alternative web scraped financial data",
+        "date": "2022-01-31",
+        "time": "16:52:22"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "gdpr public personal data update",
+        "date": "2022-01-31",
+        "time": "16:49:14"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "the first web data extraction summit",
+        "date": "2022-01-31",
+        "time": "16:48:39"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "use cases for online public sentiment data",
+        "date": "2022-01-31",
+        "time": "16:48:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "gain a competitive edge with product data",
+        "date": "2022-01-31",
+        "time": "16:48:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "4 sectors that benefited most from business intelligence software",
+        "date": "2022-01-31",
+        "time": "16:45:44"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 5",
+        "date": "2022-01-31",
+        "time": "16:40:51"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 6",
+        "date": "2022-01-31",
+        "time": "16:40:42"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 7",
+        "date": "2022-01-31",
+        "time": "16:40:28"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 8",
+        "date": "2022-01-31",
+        "time": "16:40:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "whitepaper-ebook",
+        "topic": "memex revolutionizing search and fighting the good fight",
+        "date": "2022-01-05",
+        "time": "11:58:28"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte named as one of deloitte technology fast 50",
+        "date": "2021-12-09",
+        "time": "14:43:22"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "price gouging or economics at work price intelligence to track consumer sentiment",
+        "date": "2021-11-18",
+        "time": "12:57:22"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "web scraping best practices",
+        "date": "2021-10-20",
+        "time": "07:03:58"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "data driven products",
+        "date": "2021-10-20",
+        "time": "06:46:20"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web scraping requirement gathering",
+        "date": "2021-10-20",
+        "time": "05:04:13"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "solution architecture part 5 designing a solution estimating resource requirements",
+        "date": "2021-10-20",
+        "time": "05:01:32"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "solution architecture part 3 conducting a web scraping legal review",
+        "date": "2021-10-20",
+        "time": "05:00:01"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 2",
+        "date": "2021-09-22",
+        "time": "11:09:58"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "recruitment tips to find top talent",
+        "date": "2021-09-22",
+        "time": "10:59:54"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "news web data extraction to predict irish election results",
+        "date": "2021-09-22",
+        "time": "10:53:39"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "flight data extraction",
+        "date": "2021-09-03",
+        "time": "13:43:11"
+    },
+    {
+        "site": "Zyte",
+        "type": "data-types",
+        "topic": "comment data extraction",
+        "date": "2021-09-03",
+        "time": "13:42:41"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "guide to web data extraction qa validation techniques",
+        "date": "2021-08-09",
+        "time": "11:51:53"
+    },
+    {
+        "site": "Zyte",
+        "type": "learn",
+        "topic": "what is web scraping used for learn",
+        "date": "2021-07-05",
+        "time": "09:29:21"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "covid 19 handling the situation as a fully remote company",
+        "date": "2021-06-29",
+        "time": "15:37:44"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "transitioning to remote working as a company",
+        "date": "2021-06-29",
+        "time": "15:26:46"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "vehicle api launch",
+        "date": "2021-06-29",
+        "time": "15:26:12"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "product reviews api beta extract product reviews at scale",
+        "date": "2021-06-29",
+        "time": "13:42:38"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "job postings api stable release",
+        "date": "2021-06-29",
+        "time": "13:41:40"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "blog comments api beta release",
+        "date": "2021-06-29",
+        "time": "13:39:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "web data extraction summit 2020",
+        "date": "2021-06-29",
+        "time": "13:37:42"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "announcing the web data extraction summit 2020",
+        "date": "2021-06-29",
+        "time": "13:33:25"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 4",
+        "date": "2021-05-21",
+        "time": "15:11:42"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "dateparser a powerful date parsing library",
+        "date": "2021-05-06",
+        "time": "11:10:04"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "insurance credit scoring enhanced with alternative data",
+        "date": "2021-04-30",
+        "time": "09:29:24"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 3",
+        "date": "2021-04-28",
+        "time": "16:42:52"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "zyte developers community newsletter issue 1",
+        "date": "2021-03-29",
+        "time": "13:35:27"
+    },
+    {
+        "site": "Zyte",
+        "type": "blog",
+        "topic": "scrapinghub is now zyte",
+        "date": "2021-02-02",
+        "time": "09:34:11"
+    }
+]
