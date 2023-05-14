@@ -1,0 +1,24 @@
+[
+    {
+        "hotel": "Hotel1",
+        "reviews": {
+            "country": "UK",
+            "reviewcount": 21,
+            "rating": 9.9,
+            "positive": 9,
+            "negative": 0,
+            "stayDate": "2022-12-26"
+        }
+    },
+    {
+        "hotel": "Hotel2",
+        "reviews": {
+            "country": "US",
+            "reviewcount": 11,
+            "rating": 7.9,
+            "positive": 8,
+            "negative": 0,
+            "stayDate": "2023-01-02"
+        }
+    }
+]
