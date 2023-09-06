@@ -28,7 +28,6 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
 source.find(‘a:contains(“Web”)’) # [<a.menuitm>, <a>, <a>, <a>,
 <a>]
 source.find(‘a:contains(“Web”):last’).text()
